@@ -21,7 +21,7 @@
         ah_path_prefix: galaxy  # this is for private automation hub
         validate_certs: false
       register: r_ah_token
-      no_log: "{{ ah_configuration_offlinesync_secure_logging }}"
+      no_log: "{{ ah_configuration_offline_sync_secure_logging }}"
 
     - name: Fixing format
       ansible.builtin.set_fact:
