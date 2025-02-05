@@ -10,5 +10,5 @@ ah_configuration_working_dir: /var/tmp/pah_offline_sync
 ah_configuration_no_deps: false
 # ah_overwrite_existing: false
 
-ah_configuration_offlinesync_secure_logging: "{{ ah_configuration_secure_logging | default(false) }}"
+ah_configuration_offline_sync_secure_logging: "{{ ah_configuration_secure_logging | default(false) }}"
 ...
