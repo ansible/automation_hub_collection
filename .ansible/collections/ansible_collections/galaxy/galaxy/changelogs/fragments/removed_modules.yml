@@ -1,0 +1,4 @@
+---
+major_changes:
+  - removed modules and now expected to used ansible.hub collection
+...
