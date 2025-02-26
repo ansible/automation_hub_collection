@@ -1,0 +1,39 @@
+{
+ "collection_info": {
+  "namespace": "galaxy",
+  "name": "galaxy",
+  "version": "1.1.1-devel",
+  "authors": [
+   "Sean Sullivan @sean-m-sullivan",
+   "Tom Page @Tompage1994",
+   "David Danielsson @djdanielsson"
+  ],
+  "readme": "README.md",
+  "tags": [
+   "cloud",
+   "infrastructure",
+   "galaxy",
+   "ansible",
+   "galaxy",
+   "automation"
+  ],
+  "description": "Ansible content that interacts with the Ansible Automation Hub or Galaxy NG API.",
+  "license": [
+   "GPL-3.0-only"
+  ],
+  "license_file": null,
+  "dependencies": {},
+  "repository": "https://github.com/ansible/galaxy_collection",
+  "documentation": "https://github.com/ansible/galaxy_collection/blob/devel/README.md",
+  "homepage": null,
+  "issues": "https://github.com/ansible/galaxy_collection/issues"
+ },
+ "file_manifest_file": {
+  "name": "FILES.json",
+  "ftype": "file",
+  "chksum_type": "sha256",
+  "chksum_sha256": "d4cee49f1241c9e279ceaf6265a0afff7380e86a3bcb7be4138e4df066bdee1f",
+  "format": 1
+ },
+ "format": 1
+}
